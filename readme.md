@@ -5,7 +5,7 @@
 #### By *MARGARET JANET ACHANDO*
 
 ## Description
-The project aims at enabling one to buy items
+The project aims at enabling one to buy items from a shop known as YNWA BUYS
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
